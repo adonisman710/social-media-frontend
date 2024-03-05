@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 ![View site](Capture.PNG)
+[View site]([Capture.PNG](https://social-media-site-sr.netlify.app/))
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
